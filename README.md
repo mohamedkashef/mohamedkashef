@@ -3,9 +3,9 @@
 
 
 
-
+<div align="center">
 [![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&pause=2000&color=00F79B&width=435&lines=Full+Stack+.NET+%26+Angular+Developer;Building+Scalable+Web+Applications;ASP.NET+Core+%7C+Angular+%7C+SQL+Server)](https://git.io/typing-svg)
-
+</div>
 
 
 
