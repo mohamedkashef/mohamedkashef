@@ -1,9 +1,16 @@
 <h1 align="center">Hi 👋, I'm Mohamed Kashef</h1>
 <h3 align="center">Full Stack Web Developer (.NET | Angular)</h3>
 
+
+
+
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&pause=2000&color=00F79B&width=435&lines=Full+Stack+.NET+%26+Angular+Developer;Building+Scalable+Web+Applications;ASP.NET+Core+%7C+Angular+%7C+SQL+Server)](https://git.io/typing-svg)
+
+
+
+
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=mohamedkashef&label=Profile%20views&color=0e75b6&style=flat" alt="mohamedkashef" /> </p>
 
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=mohamedkashef" alt="mohamedkashef" /></a> </p>
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
