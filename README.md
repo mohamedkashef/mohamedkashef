@@ -13,6 +13,15 @@
   [![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&pause=2000&color=00F79B&width=435&lines=Full+Stack+.NET+%26+Angular+Developer;Building+Scalable+Web+Applications;ASP.NET+Core+%7C+Angular+%7C+SQL+Server)](https://git.io/typing-svg)
 </div>
 
+## 🛠️ Technology Stack
+<div align="center">
+
+### 🎨 Frontend Tools
+[![Frontend Skills](https://skillicons.dev/icons?i=js,html,css,bootstrap,tailwind,angular)](https://skillicons.dev)
+### ⚙️ Backend Stack
+[![My Skills](https://skillicons.dev/icons?i=fastapi,cs,dotnet,visualstudio,sqlite&theme=dark&perline=15)](https://skillicons.dev)
+
+</div>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=mohamedkashef&label=Profile%20views&color=0e75b6&style=flat" alt="mohamedkashef" /> </p>
 
