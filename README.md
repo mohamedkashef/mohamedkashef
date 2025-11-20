@@ -71,7 +71,10 @@
   <img align="center" src="https://github.com/mohamedkashef/mohamedkashef/blob/main/Tired%20Now.gif?raw=true"/>
 </div>
 
-## Profile Info
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=mohamedkashef&show_icons=true&locale=en&layout=compact" alt="mohamedkashef" /></p>
+## Profile Info:
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=mohamedkashef&show_icons=true&locale=en" alt="mohamedkashef" /></p>
+<div align="center">
+<img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=mohamedkashef&show_icons=true&locale=en&layout=compact" alt="mohamedkashef" />
+
+<img align="center" src="https://github-readme-stats.vercel.app/api?username=mohamedkashef&show_icons=true&locale=en" alt="mohamedkashef" />
+</div>
