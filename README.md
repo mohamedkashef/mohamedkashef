@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Mohamed Kashef</h1>
 <h3 align="center">Full Stack Web Developer (.NET | Angular)</h3>
 
-<img align="center" src="https://raw.githubusercontent.com/mohamedkashef/mohamedkashef/refs/heads/main/maingif.gif"/>
+<img align="center" src="https://raw.githubusercontent.com/mohamedkashef/mohamedkashef/refs/heads/main/9070324cdfc07c68d60eed0c39e77573.gif"/>
 
 <div align="center">
   <h3>
