@@ -65,7 +65,7 @@ Think, Code, Create, Inspire
 
 <img align="right" height="300" width="200" src="https://github.com/mohamedkashef/mohamedkashef/blob/main/20250203T101527926.png?raw=true"/>
 
-### 🎓 Full Stack Developer Trainee @ Digital Egypt Pioneers Initiative (DEPI) - 2024
+### 🎓 Full Stack Developer Trainee @ Digital Egypt Pioneers Initiative(DEPI) - 2024
 
 - 💻 6-Month Full Stack Development Scholarship Program
 - 🔨 Focusing on .NET Core & ASP.NET development
