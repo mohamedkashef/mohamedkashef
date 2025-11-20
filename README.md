@@ -63,7 +63,7 @@ Think, Code, Create, Inspire
 
 
 
-<img align="right" height="300" width="250" src="https://github.com/mohamedkashef/mohamedkashef/blob/main/20250203T101527926.png?raw=true"/>
+<img align="right" height="300" width="200" src="https://github.com/mohamedkashef/mohamedkashef/blob/main/20250203T101527926.png?raw=true"/>
 
 ### 🎓 Full Stack Developer Trainee @ Digital Egypt Pioneers Initiative 2024
 
