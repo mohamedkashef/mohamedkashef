@@ -9,9 +9,9 @@
     Make It Work, Make It Right, Make It Fast
     <img src="https://media2.giphy.com/media/QssGEmpkyEOhBCb7e1/giphy.gif" width="20" alt="Code Icon"/> 
   </h3>
+  
   [![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&pause=2000&color=00F79B&width=435&lines=Full+Stack+.NET+%26+Angular+Developer;Building+Scalable+Web+Applications;ASP.NET+Core+%7C+Angular+%7C+SQL+Server)](https://git.io/typing-svg)
 </div>
-
 
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=mohamedkashef&label=Profile%20views&color=0e75b6&style=flat" alt="mohamedkashef" /> </p>
