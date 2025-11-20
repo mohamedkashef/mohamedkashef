@@ -20,6 +20,8 @@
 [![Frontend Skills](https://skillicons.dev/icons?i=js,html,css,bootstrap,tailwind,angular)](https://skillicons.dev)
 ### ⚙️ Backend Stack
 [![My Skills](https://skillicons.dev/icons?i=fastapi,cs,dotnet,visualstudio,sqlite&theme=dark&perline=15)](https://skillicons.dev)
+### 🛢️ DevOps & Tools
+[![My Skills](https://skillicons.dev/icons?i=git,github,vscode&theme=dark&perline=11)](https://skillicons.dev)
 
 </div>
 
