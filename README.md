@@ -65,7 +65,7 @@ Think, Code, Create, Inspire
 
 
 ### 🎓 Full Stack Developer Trainee @ Digital Egypt Pioneers Initiative (2024)
-<img align="right" height="200" width="250" src="https://github.com/mohamedkashef/mohamedkashef/blob/main/20250203T101527926.png?raw=true"/>
+<img align="right" height="200" width="200" src="https://github.com/mohamedkashef/mohamedkashef/blob/main/20250203T101527926.png?raw=true"/>
 
 - 💻 6-Month Full Stack Development Scholarship Program
 - 🔨 Focusing on .NET Core & ASP.NET development
