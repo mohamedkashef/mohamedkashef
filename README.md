@@ -17,9 +17,19 @@
 <div align="center">
   <h3>
     <img src="https://media2.giphy.com/media/QssGEmpkyEOhBCb7e1/giphy.gif" width="20" alt="Code Icon"/> 
-    Make It Work, Make It Right, Make It Fast
+      Code Smart, Ship Fast, Learn Always
     <img src="https://media2.giphy.com/media/QssGEmpkyEOhBCb7e1/giphy.gif" width="20" alt="Code Icon"/> 
   </h3>
+  <h3>
+    <img src="https://media2.giphy.com/media/QssGEmpkyEOhBCb7e1/giphy.gif" width="20" alt="Code Icon"/> 
+      Build, Break, Improve, Repeat
+    <img src="https://media2.giphy.com/media/QssGEmpkyEOhBCb7e1/giphy.gif" width="20" alt="Code Icon"/> 
+  </h3>
+  <h4>
+    <img src="https://media2.giphy.com/media/QssGEmpkyEOhBCb7e1/giphy.gif" width="20" alt="Code Icon"/> 
+Think, Code, Create, Inspire
+    <img src="https://media2.giphy.com/media/QssGEmpkyEOhBCb7e1/giphy.gif" width="20" alt="Code Icon"/> 
+  </h4>
   
   [![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&pause=2000&color=00F79B&width=435&lines=Full+Stack+.NET+%26+Angular+Developer;Building+Scalable+Web+Applications;ASP.NET+Core+%7C+Angular+%7C+SQL+Server)](https://git.io/typing-svg)
 </div>
@@ -63,8 +73,12 @@
 
 ## Connect with me:
 <p align="center">
-<a href="https://linkedin.com/in/mohamed-kashef" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="mohamed-kashef" height="30" width="40" /></a>
-<a href="https://fb.com/mohamed.r.kashef" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="mohamed.r.kashef" height="30" width="40" /></a>
+<a href="https://linkedin.com/in/mohamed-kashef" target="blank"><img align="center" src="https://github.com/mohamedkashef/mohamedkashef/blob/main/linkedin.gif?raw=true" alt="mohamed-kashef" height="70" width="70" /></a>
+<a href="https://fb.com/mohamed.r.kashef" target="blank"><img align="center" src="https://github.com/mohamedkashef/mohamedkashef/blob/main/face.gif?raw=true" alt="mohamed.r.kashef" height="70" width="70" /></a>
+  <a href="https://wa.me/+201068644626" target="_blank">
+  <img align="center" src="https://github.com/mohamedkashef/mohamedkashef/blob/main/whats.gif?raw=true" alt="WhatsApp" height="70" width="70" />
+</a>
+
 </p>
 
 <div align="center">
