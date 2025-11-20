@@ -51,6 +51,8 @@ Think, Code, Create, Inspire
 
 ## 🏆 Experience
 ### 🎓 Full Stack .NET Developer Trainee @ Information Technology Institute (ITI) — Nov 2024 – Mar 2025
+<img align="right" height="300" width="250" src="https://raw.githubusercontent.com/mohamedkashef/mohamedkashef/bb3f359e46f68d56274211704c29bf9de79d8550/ColoredLogo.svg"/>
+
 - 📘 4-Month Intensive Training Program (ITP) in Full Stack .NET Development
 - 💻 Building Full Stack applications using ASP.NET Core, C#, and Angular
 - 🗄️ Designing SQL Server databases & implementing EF Core
@@ -60,7 +62,11 @@ Think, Code, Create, Inspire
 - 👥 Working in Agile teams with daily stand-ups & sprints
 
 
+
+
 ### 🎓 Full Stack Developer Trainee @ Digital Egypt Pioneers Initiative (2024)
+<img align="right" height="200" width="250" src="https://github.com/mohamedkashef/mohamedkashef/blob/main/20250203T101527926.png?raw=true"/>
+
 - 💻 6-Month Full Stack Development Scholarship Program
 - 🔨 Focusing on .NET Core & ASP.NET development
 - 🌐 Building REST APIs and microservices
