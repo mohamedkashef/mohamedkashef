@@ -44,8 +44,9 @@ Think, Code, Create, Inspire
 ### 🎨 Frontend Tools
 [![Frontend Skills](https://skillicons.dev/icons?i=js,html,css,bootstrap,tailwind,angular)](https://skillicons.dev)
 
-<img align="left" src="https://user-images.githubusercontent.com/74038190/219923809-b86dc415-a0c2-4a38-bc88-ad6cf06395a8.gif" height="70" width="70" />
-<img align="right" src="https://github.com/mohamedkashef/mohamedkashef/blob/main/bootstrap.gif?raw=true" height="70" width="70" />
+<img align="left" src="https://github.com/mohamedkashef/mohamedkashef/blob/main/vscode.gif?raw=true" height="70" width="70" />
+<img align="right" src="https://github.com/mohamedkashef/mohamedkashef/blob/main/git.gif?raw=true" height="70" width="70" />
+
 
 
 
@@ -53,8 +54,9 @@ Think, Code, Create, Inspire
 [![My Skills](https://skillicons.dev/icons?i=fastapi,cs,dotnet,visualstudio,sqlite&theme=dark&perline=15)](https://skillicons.dev)
 
 
-<img align="left" src="https://github.com/mohamedkashef/mohamedkashef/blob/main/git.gif?raw=true" height="70" width="70" />
 <img align="right" src="https://github.com/mohamedkashef/mohamedkashef/blob/main/github.gif?raw=true" height="70" width="70" />
+<img align="left" src="https://github.com/mohamedkashef/mohamedkashef/blob/main/bootstrap.gif?raw=true" height="70" width="70" />
+
 
 ### 🛢️ DevOps & Tools
 [![My Skills](https://skillicons.dev/icons?i=git,github,vscode&theme=dark&perline=11)](https://skillicons.dev)
