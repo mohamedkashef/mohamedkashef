@@ -97,7 +97,7 @@ Think, Code, Create, Inspire
    <a href="https://github.com/mohamedkashef/mohamedkashef/raw/main/Mohamed%20Ragab%20Osman%20CV.pdf" download>
       <img alt="Static Badge" src="https://img.shields.io/badge/Download-blue" height="40" width="150">
    </a>
-   <a href="https://drive.google.com/file/d/1znlsuCvNuTW9YCzkCxF5Z40UIgwBuixl/view?usp=sharing">
+   <a href="https://drive.google.com/file/d/1znlsuCvNuTW9YCzkCxF5Z40UIgwBuixl/view?usp=sharing" target="_blank">
      <img alt="Static Badge" src="https://img.shields.io/badge/Open-blue"  height="40" width="100">
    </a>
  </div>
@@ -123,6 +123,7 @@ Think, Code, Create, Inspire
 <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=mohamedkashef&show_icons=true&locale=en&layout=compact" alt="mohamedkashef" />
 
 <img align="center" src="https://github-readme-stats.vercel.app/api?username=mohamedkashef&show_icons=true&locale=en" alt="mohamedkashef" />
+
 </div>
 
 ---
