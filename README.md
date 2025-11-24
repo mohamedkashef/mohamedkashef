@@ -1,14 +1,13 @@
 <div style="display: flex; align-items: center; justify-content: space-between; width: 100%;">
-  <!-- Profile view على الشمال -->
   <div style="flex-shrink: 0;">
     <img src="https://komarev.com/ghpvc/?username=mohamedkashef&label=Profile%20views&color=0e75b6&style=flat" alt="mohamedkashef" />
   </div>
 
-  <!-- H1 في المنتصف -->
   <h1 align="center" style="margin: 0 auto; text-align: center; flex-grow: 1;">
     Hi 👋, I'm Mohamed Kashef
   </h1>
 </div>
+
 
 <h3 align="center">Full Stack Web Developer (.NET | Angular)</h3>
 
@@ -126,7 +125,7 @@ Think, Code, Create, Inspire
 <img align="center" src="https://github-readme-stats.vercel.app/api?username=mohamedkashef&show_icons=true&locale=en" alt="mohamedkashef" />
 </div>
 
-##
+---
 
 <img align="center" src="https://user-images.githubusercontent.com/74038190/213910845-af37a709-8995-40d6-be59-724526e3c3d7.gif" alt="mohamedkashef" />
 
