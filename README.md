@@ -92,7 +92,16 @@ Think, Code, Create, Inspire
 - 🔄 Working with CI/CD pipelines and DevOps practices
 
 
+## CV:
 
+ <div align="center">
+   <a>
+      <img alt="Static Badge" src="https://img.shields.io/badge/Download-blue" height="40" width="150">
+   </a>
+   <a>
+     <img alt="Static Badge" src="https://img.shields.io/badge/Open-blue"  height="40" width="100">
+   </a>
+ </div>
 
 
 ## Connect with me:
