@@ -1,8 +1,13 @@
-<div style="display: flex; align-items: center; justify-content: space-between; width: 100%;">
+  <img align="right" src="https://camo.githubusercontent.com/10fc0d56947f60813d3e0d3913b112a83e32588ab18b2d7cf815a201bf6356a1/68747470733a2f2f6769746875622d726561646d652d73746174732e76657263656c2e6170702f6170692f746f702d6c616e67733f757365726e616d653d6d6f68616d65646b61736865662673686f775f69636f6e733d74727565266c6f63616c653d656e266c61796f75743d636f6d70616374" alt="mohamedkashef" />
+
   <div style="flex-shrink: 0;">
     <img src="https://komarev.com/ghpvc/?username=mohamedkashef&label=Profile%20views&color=0e75b6&style=flat" alt="mohamedkashef" />
+    
+
   </div>
 
+<br><br><br>
+<div align="center">
   <h1 align="center" style="margin: 0 auto; text-align: center; flex-grow: 1;">
     Hi 👋, I'm Mohamed Kashef
   </h1>
@@ -117,14 +122,13 @@ Think, Code, Create, Inspire
   <img align="center" src="https://github.com/mohamedkashef/mohamedkashef/blob/main/Tired%20Now.gif?raw=true"/>
 </div>
 
-## Profile Info:
 
-<div align="center">
-<img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=mohamedkashef&show_icons=true&locale=en&layout=compact" alt="mohamedkashef" />
+<!-- <div align="center"> -->
+<!-- <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=mohamedkashef&show_icons=true&locale=en&layout=compact" alt="mohamedkashef" /> -->
 
-<img align="center" src="https://github-readme-stats.vercel.app/api?username=mohamedkashef&show_icons=true&locale=en" alt="mohamedkashef" />
+<!-- <img align="center" src="https://github-readme-stats.vercel.app/api?username=mohamedkashef&show_icons=true&locale=en" alt="mohamedkashef" /> -->
 
-</div>
+<!-- </div> -->
 
 ---
 
