@@ -97,8 +97,8 @@ Think, Code, Create, Inspire
    <a href="https://github.com/mohamedkashef/mohamedkashef/raw/main/Mohamed%20Ragab%20Osman%20CV.pdf" download>
       <img alt="Static Badge" src="https://img.shields.io/badge/Download-blue" height="40" width="150">
    </a>
-   <a>
-     <img alt="Static Badge" src="https://drive.google.com/file/d/1znlsuCvNuTW9YCzkCxF5Z40UIgwBuixl/view?usp=sharing"  height="40" width="100">
+   <a href="https://drive.google.com/file/d/1znlsuCvNuTW9YCzkCxF5Z40UIgwBuixl/view?usp=sharing">
+     <img alt="Static Badge" src="https://img.shields.io/badge/Open-blue"  height="40" width="100">
    </a>
  </div>
 
